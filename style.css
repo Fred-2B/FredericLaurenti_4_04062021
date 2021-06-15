@@ -374,6 +374,11 @@ footer .row {
     padding: 1rem 2rem;
 }
 
+#bloc-8 h2 {
+    font-size: 20px;
+    margin-bottom: 40px;
+}
+
 .text-center img {
     width: 50vw;
     max-width: 1000px;
@@ -599,7 +604,7 @@ button {
     position: fixed;
     bottom: 20px;
     right: 20px;
-    opacity: 1;
+    opacity: 5;
     z-index: 500;
     transition: all .3s ease-in-out;
     border: solid 2px white;
