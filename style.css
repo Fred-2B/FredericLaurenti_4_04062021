@@ -879,8 +879,8 @@ h4 {
 }
 
 .btn-atomic-tangerine:hover {
-    background: #333333!important;
-    color: #F3976C!important;
+    background: #F3976C!important;
+    color: #FFFFFF!important;
 }
 
 .ltc-white {
@@ -968,14 +968,12 @@ h4 {
     }
 }
 
-@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: landscape) {
-    .b-parallax {
+@media only screen and (min-device-width: 768px) {
         background-attachment: scroll;
     }
 }
 
-@media only screen and (min-device-width: 1024px) and (max-device-width: 1366px) and (-webkit-min-device-pixel-ratio: 1.5) {
-    .b-parallax {
+@media only screen and (min-device-width: 1024px) {
         background-attachment: scroll;
     }
 }
